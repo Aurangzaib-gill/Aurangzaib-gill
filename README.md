@@ -72,4 +72,4 @@ I'm interested in opportunities related to **Cloud Engineering, DevOps, Platform
 
 I'm open to internships, entry-level engineering opportunities, technical collaborations, and connecting with professionals in cloud-native technologies.
 
-**[GitHub](https://github.com/Aurangzaib-gill) | [Portfolio](https://github.com/Aurangzaib-gill/PORTFOLIO)**
+**[LinkedIn](https://www.linkedin.com/in/aurangzaib-gill) | [GitHub](https://github.com/Aurangzaib-gill) | [Portfolio](https://github.com/Aurangzaib-gill/PORTFOLIO)**
